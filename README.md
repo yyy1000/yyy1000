@@ -3,7 +3,8 @@
  
 
 [![@elfgum's Holopin board](https://holopin.me/elfgum)](https://holopin.io/@elfgum)
-- 😍 Comuter Science @ Texas A&M Univeristy, expect to graduate at May, 2025
+- I'm looking for a full-time job in US
+- 😍 Comuter Science @ Texas A&M Univeristy, expect to graduate at Dec, 2024
 - 😜 Love programming & tech
 - ✨ Google Summer of Code 2023(GSoC) @ Kubebuilder(CNCF)
 - 🎉 Open Source Promotion Plan 2022(OSPP) @WasmEdge(CNCF)
