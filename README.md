@@ -3,7 +3,7 @@
  
 
 [![@elfgum's Holopin board](https://holopin.me/elfgum)](https://holopin.io/@elfgum)
-- I'm looking for a full-time job in US
+- 👀 I'm looking for a full-time job in the US, welcome to contact me. :)
 - 😍 Comuter Science @ Texas A&M Univeristy, expect to graduate at Dec, 2024
 - 😜 Love programming & tech
 - ✨ Google Summer of Code 2023(GSoC) @ Kubebuilder(CNCF)
